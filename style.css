@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: red;
+}
+
+header nav {
+    display: flex;
+}
+
+header nav ul {
+    display: flex;
+}
+
+header nav .logo {
+    display: flex;
+}
+
+header nav ul li {
+    list-style: none;
+}
+
+header nav ul li a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #171a20;
+    text-decoration: none;
+}
